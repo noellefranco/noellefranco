@@ -1,7 +1,7 @@
 ### Olá, eu sou a Noelle! 👋
 
 - 🌱 estudando JavaScript
-- 🖌️ tenho muito curiosidade e interesse pelo mundo do UX Design
+- 🖌️ tenho muita curiosidade e interesse pelo mundo do UX Design
 - 😄 pronomes: ela/dela
 
 <div align="center">
